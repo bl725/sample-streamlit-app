@@ -16,11 +16,10 @@ You need **Python 3.8+** installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/bl725/sample-streamlit-app.git
+    cd sample-streamlit-app
     ```
-    *(Remember to replace `your-username/your-repo-name.git` with the actual path to your repository.)*
-
+    
 2.  **Create and activate a virtual environment** (recommended):
     ```bash
     python -m venv venv
