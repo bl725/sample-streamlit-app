@@ -33,7 +33,6 @@ You need **Python 3.8+** installed on your system.
     ```bash
     pip install -r requirements.txt
     ```
-    *(If you don't have a `requirements.txt` file yet, you should create one and add `streamlit` to it, or just run `pip install streamlit`.)*
 
 ### Running the App
 
